@@ -1,19 +1,28 @@
-# 📁 The Little Taco Shop
+# 💻 The Little Taco Shop
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
+![Minimal CSS](https://img.shields.io/badge/Minimal%20CSS-lightgrey?style=for-the-badge&logo=css3&logoColor=white)
+![Beginner Project](https://img.shields.io/badge/Beginner%20Project-25D366?style=for-the-badge)
+![Semantic HTML](https://img.shields.io/badge/Semantic%20HTML-ff9800?style=for-the-badge)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c2707c1e-e4c4-4a66-bd99-15952a72503c/deploy-status)](https://my-little-taco-shop.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/eaf72569-eb62-41d4-83ff-1414c2871538/deploy-status)](https://the-little-taco-shop-v1-jiro.netlify.app/)
+![Status](https://img.shields.io/badge/status-complete-brightgreen)
+![Learning Path](https://img.shields.io/badge/learning%20path-month%201-blue)
 
-## ℹ️ A basic HTML taco shop website
+## ℹ️ A Basic HTML Taco Shop Website
 
-<div style="display: flex; flex-flow: row wrap; gap: 1rem; justify-content: center">
-  <img src="./screenshot1.png" width="300">
-  <img src="./screenshot2.png" width="300">
-  <img src="./screenshot3.png" width="300">
+<div style="display: flex; flex-flow: row wrap; gap: 1em; justify-content: center; align-items: center; margin-bottom: 1em">
+  <img src="./screenshot1.png" alt="Screenshot of project home page." width="300">
+  <img src="./screenshot2.png" alt="Screenshot of project contact page." width="300">
+  <img src="./screenshot3.png" alt="Screenshot of project hours page." width="300">
 </div>
 
-A HTML website built with minimal CSS as part of my earliest challenge assignments in frontend development.
+HTML website built with minimal CSS as part of my earliest challenge assignments in frontend development.
 
 ---
 
@@ -54,21 +63,23 @@ This was my first hand experience of being given design images and a task of rep
 ## 🛠️ Tech Used
 
 - HTML5
-- CSS3
+- CSS3 (minimal)
+- Git
+- GitHub
+- Netlify
 
 ---
 
 ## 🚀 How to Run
 
 1. Clone the repository
-2. Navigate to this folder
-3. Open `index.html` in your browser
+2. Open `index.html` in your browser
 
 ---
 
 ## 🌐 Live Demo
 
-Or you can check out the 👉 [live website here](https://my-little-taco-shop.netlify.app/)
+Or you can check out the 👉 [live website here](https://the-little-taco-shop-v1-jiro.netlify.app/)
 
 ---
 
@@ -78,4 +89,4 @@ Created by **Elmar Chavez**
 
 🗓️ Month/Year: **April 2025**
 
-📚 Journey: **First month** of learning _frontend web development_.
+📚 Journey: **1<sup>st</sup>** month of learning _frontend web development_.
