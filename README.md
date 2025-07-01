@@ -13,6 +13,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/eaf72569-eb62-41d4-83ff-1414c2871538/deploy-status)](https://the-little-taco-shop-v1-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%201-blue)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.the-little-taco-shop-website-v1&left_text=repo%20views)
 
 ## ℹ️ A Basic HTML Taco Shop Website
 
